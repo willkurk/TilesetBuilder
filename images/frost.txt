@@ -1,0 +1,4 @@
+:animation
+sequence=0,18,97,100
+dimensions=5,4,0,0
+radius=20

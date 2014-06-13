@@ -1,0 +1,9 @@
+:animation
+sequence=0,5,49,27
+dimensions=1,5,0,0
+handleOffset=26,23,0,0
+hitbox0=26,19,24,8
+hitbox1=26,6,17,17
+hitbox2=22,0,8,24
+hitbox3=9,6,17,17
+hitbox4=0,19,24,8

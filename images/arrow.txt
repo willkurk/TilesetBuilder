@@ -1,0 +1,4 @@
+:animation
+sequence=0,1,56,28
+dimensions=1,1,0,0
+hitbox=10,7,25,3

@@ -1,0 +1,4 @@
+:animation
+sequence=0,1,56,28
+dimensions=1,1,0,0
+imagebox=17,12,13,3

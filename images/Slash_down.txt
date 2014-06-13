@@ -1,0 +1,3 @@
+:animation
+sequence=0,5,27,47
+dimensions=1,5,0,0

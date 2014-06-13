@@ -1,0 +1,4 @@
+:oldman
+stepup=.5
+walkbox=7,26,8,4
+handPosition=13,26
